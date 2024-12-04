@@ -3,7 +3,7 @@ import os
 from pprint import pprint
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
-# Advent of Code 2024 #3
+# Advent of Code 2024 #4
 
 PUZZLE_INPUT_PATH = dir_path + "/input.txt"
     
